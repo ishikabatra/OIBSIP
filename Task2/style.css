@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    background-color: black;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+h3{
+    color: rgb(247, 82, 82);
+}
+#main{
+    margin-top: 80px;
+    width: 70px;
+    height: auto;
+}
+.title{
+    color:rgb(247, 82, 82) ;
+    font-size: 50px;
+    margin:20px 0px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+ strong{
+    color:rgb(247, 82, 82);
+ }
+
+#image{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    background: url(images/Popular\ Michael\ Jordan\ Dunk\ Wallpaper\ FULL\ HD\ 1920×1080\ For\ PC\ Background\ 2021.jpg) no-repeat center center scroll;
+    background-size: cover;
+    display: black;
+}
+#image-caption{
+    text-align: center;
+}
+.tribute-info{
+    margin: 30px 40px;
+}
+ul li{
+    padding: 10px 0;
+}
+#link{
+    margin: 30px 30px;
+}
+a{
+    display: block;
+    color: white;
+}
+
+footer{
+    background-color:rgb(253, 33, 33); 
+    padding: 2px;
+}
